@@ -1,10 +1,10 @@
 # super-duplicate package
 
-Duplicate lines and replace x to y, width to height, addEventListener->removeEventListener, etc.. & vice-versa
+Duplicate lines and exchange symbols (x/y, width/height, add/remove, etc..). Usefull for front dev.
 
 ![Super Duplicate Screenshot](http://makiopolis.com/superDuplicate.gif)
 
-## List of transform:
+## List of exchange
 
 - x <-> y
 - X <-> Y
@@ -26,6 +26,10 @@ Duplicate lines and replace x to y, width to height, addEventListener->removeEve
 - add <-> remove
 - ADD <-> REMOVE
 - addEventListener <-> removeEventListener
+
+## Know bugs
+
+If you duplicate the last lines of the files, the duplicated line will be over the original line.
 
 ## Credit
 
