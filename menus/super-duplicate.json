@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+	"atom-text-editor": [
+	  {
+		"label": "Duplicate super-duplicate",
+		"command": "super-duplicate:duplicate"
+	  }
+	]
+  },
+  "menu": [
+	{
+	  "label": "Packages",
+	  "submenu": [
+		{
+		  "label": "super-duplicate",
+		  "submenu": [
+			{
+			  "label": "Duplicate",
+			  "command": "super-duplicate:duplicate"
+			}
+		  ]
+		}
+	  ]
+	}
+  ]
+}

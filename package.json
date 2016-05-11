@@ -1,0 +1,19 @@
+{
+  "name": "super-duplicate",
+  "main": "./lib/index",
+  "version": "0.0.0",
+  "description": "Duplicate lines and replace x to y, width to height, addEventListener->removeEventListener, etc.. & vice-versa",
+  "keywords": [
+	  "duplicate"
+  ],
+  "activationCommands": {
+	"atom-workspace": "super-duplicate:duplicate"
+  },
+  "repository": "https://github.com/makio64/super-duplicate",
+  "license": "MIT",
+  "engines": {
+	"atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

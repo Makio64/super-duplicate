@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+	"shift-cmd-x": "super-duplicate:duplicate"
+  }
+}
