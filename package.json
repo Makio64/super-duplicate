@@ -1,19 +1,19 @@
 {
   "name": "super-duplicate",
   "main": "./lib/index",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Duplicate lines and exchange symbols (x/y, width/height, add/remove, etc..). Usefull for front dev.",
   "keywords": [
-	"duplicate"
+    "duplicate"
   ],
   "activationCommands": {
-	"atom-workspace": "super-duplicate:duplicate"
+    "atom-workspace": "super-duplicate:duplicate"
   },
-  "author":"David Ronai / @makio64",
+  "author": "David Ronai / @makio64",
   "repository": "https://github.com/makio64/super-duplicate",
   "license": "MIT",
   "engines": {
-	"atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {}
 }
