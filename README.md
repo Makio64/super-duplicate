@@ -1,3 +1,5 @@
+[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
+
 # super-duplicate package
 
 Duplicate lines and exchange symbols (x/y, width/height, add/remove, etc..). Usefull for front dev.
