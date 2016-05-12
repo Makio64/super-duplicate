@@ -1,3 +1,6 @@
+## 0.2.1 - Add extra exchange feature
+* add extra exchange 
+
 ## 0.1.1 - Fix description & meta
 * description more clear
 * meta more clear

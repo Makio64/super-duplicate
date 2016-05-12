@@ -28,6 +28,20 @@ Duplicate lines and exchange symbols (x/y, width/height, add/remove, etc..). Use
 - add <-> remove
 - ADD <-> REMOVE
 - addEventListener <-> removeEventListener
+- r -> g -> b
+
+## Extra exchange
+If you duplicate again the line you just duplicate you get extra exchange
+
+- x->y->z->w
+- X->Y->Z->W
+- R->G->B->A
+- w->h->d
+- W->H->D
+- width->height->depth
+- WIDTH->HEIGHT->DEPTH
+- scaleX->scaleY->scaleZ->scaleW
+- radiusX->radiusY->radiusZ->radiusW
 
 ## Know bugs
 
