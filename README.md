@@ -13,6 +13,7 @@ Duplicate lines and exchange symbols (x/y, width/height, add/remove, etc..). Use
 - w <-> h
 - W <-> H
 - width <-> height
+- innerWidth <-> innerHeight
 - WIDTH <-> HEIGHT
 - scaleX <-> scaleY
 - radiusX <-> radiusY
