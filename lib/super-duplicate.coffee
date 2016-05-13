@@ -7,6 +7,7 @@ class SuperDuplicate
 		"W":["H","D"]
 		"width":["height","depth"]
 		"WIDTH":["HEIGHT","DEPTH"]
+		"innerWidth":["innerHeight"]
 		"scaleX":["scaleY","scaleZ","scaleW"]
 		"radiusX":["radiusY","radiusZ","radiusW"]
 		"r":["g","b","a"]
